@@ -1,8 +1,10 @@
 ### Hi there 👋
+<div align=center>
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=junsunny%20render&fontSize=90)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junsunny&langs_count=8)](https://github.com/junsunny/github-readme-stats)
+</div>
 <!--
 **junsunny/junsunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
