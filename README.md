@@ -1,8 +1,8 @@
 <div align=center>
-##Hi there 👋
 
+  
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=junsunny%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20i'm%20junsun!&fontSize=90)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junsunny&langs_count=8)](https://github.com/junsunny/github-readme-stats)
 </div>
